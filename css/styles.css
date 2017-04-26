@@ -1,0 +1,16 @@
+.initially-hidden, .definition {
+  display: none;
+}
+
+.definition{
+  margin-top: 7%;
+}
+
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
